@@ -23,10 +23,14 @@ apis:
       - type: Documentation
         url: https://www.animenewsnetwork.com/encyclopedia/api.php
 common:
+  - type: DomainSecurity
+    url: security/animenewsnetwork-domain-security.yml
   - type: Website
     url: https://www.animenewsnetwork.com/encyclopedia/api.php
   - type: PublicAPIsListing
     url: https://github.com/public-apis/public-apis
+  - url: https://www.animenewsnetwork.com/all/rss.xml
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
