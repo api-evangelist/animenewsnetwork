@@ -1,0 +1,14 @@
+{
+  "repo": "animenewsnetwork",
+  "feeds": [
+    {
+      "source": "https://www.animenewsnetwork.com/all/rss.xml",
+      "feed_url": "https://www.animenewsnetwork.com/all/rss.xml",
+      "title": "",
+      "saved": 10,
+      "method": "feed"
+    }
+  ],
+  "fetched": "2026-07-11T11:50:51Z",
+  "post_count": 85
+}
