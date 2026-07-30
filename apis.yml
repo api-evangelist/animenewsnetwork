@@ -1,10 +1,22 @@
 aid: animenewsnetwork
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/animenewsnetwork.png
 name: AnimeNewsNetwork
 description: "Anime industry news"
 url: https://www.animenewsnetwork.com/encyclopedia/api.php
 specificationVersion: '0.20'
 created: '2026-05-28'
-modified: '2026-05-28'
+modified: '2026-07-25'
 x-source: public-apis/public-apis
 x-category: "Anime"
 x-tier: 3
