@@ -1,0 +1,26 @@
+# Front Door AI Index — animenewsnetwork — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: animenewsnetwork
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: www.animenewsnetwork.com
+  final_host: www.animenewsnetwork.com
+  ownership: own
+  owner: animenewsnetwork
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 5
+  host_score: 5
+  density: 0.36
+  words: 13725
+  tiers:
+    agentic: 0
+    core: 2
+    model: 3
+  ambiguous: 0
+  top_terms:
+    transformer: 3
+    AI: 2
