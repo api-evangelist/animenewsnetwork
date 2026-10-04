@@ -39,7 +39,6 @@ apis:
   - name: AnimeNewsNetwork
     description: "Anime industry news"
     humanURL: https://www.animenewsnetwork.com/encyclopedia/api.php
-    baseURL: https://www.animenewsnetwork.com/encyclopedia/api.php
     tags:
       - Anime
     properties:
